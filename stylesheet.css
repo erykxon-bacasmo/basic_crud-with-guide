@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: arial;
+}
+
+/* for the table */
+table {
+    border: 1px solid black;
+    margin: auto;
+    width: 70%;
+}
+
+/* inside the table */
+th, td {
+    border: 1px solid black;
+}
+
+/* lahat ng a href tag ganito ang mang yayari */
+a {
+    text-decoration: none;
+    color: black;
+}
